@@ -1,7 +1,6 @@
 ## 💡 My Principle
 
 > **Explore → Compare → Commit**  
-> I believe in exploring multiple solutions, comparing their trade-offs, and then committing to the clearest one. It’s how I approach code, research, and even life decisions.
 
 ---
 
